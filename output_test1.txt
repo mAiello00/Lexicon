@@ -1,0 +1,26 @@
+
+Word @ does not exist.
+
+Word to be found: new
+	Filename: A_Modest_Proposal.txt
+		[2371]
+
+Word magnanimous does not exist.
+
+Word to be found: beach
+	Filename: Frankenstein.txt
+		[54050]
+
+Word to be found: school
+	Filename: Frankenstein.txt
+		[41302]
+
+Word Canada does not exist.
+
+Word to be found: --
+	Filename: A_Modest_Proposal.txt
+		[3658]
+
+Word to be found: use
+	Filename: A_Modest_Proposal.txt
+		[18]
